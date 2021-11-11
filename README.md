@@ -1,4 +1,4 @@
-# Big Game Survey 
+# DSVendas 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/cspreng/projeto-sds3/blob/main/LICENSE) 
 
 # Sobre o projeto
